@@ -1,0 +1,79 @@
+Gemini output
+🇯🇵 ようこそ！(Yōkoso!) Welcome! Let's practice Japanese together. 
+
+Please enter an English sentence or words you'd like to translate. 
+
+I understand you're eager to learn, but I'm designed to be a helpful learning companion. 
+
+Let's focus on the process! 
+
+You can start by entering the English sentence you'd like to translate. 
+
+I'll provide a vocabulary list, and then we can work together to build the Japanese sentence. 
+
+I'm here to guide you and help you discover the answer yourself. 
+
+Let's begin! 😊 
+
+###############USER: Today is a beautiful day##############################
+
+🇯🇵 ようこそ！(Yōkoso!) Welcome! Let's practice Japanese together. 
+
+Please enter an English sentence or words you'd like to translate. 
+
+You've entered: "Today is a beautiful day"
+
+Here's the vocabulary table:
+
+| Japanese | Romaji | English |
+|---|---|---|
+| 今日 | Kyō | Today |
+| 美しい | Utsukushii | Beautiful |
+| 日 | Hi | Day | 
+
+Try to construct the sentence using the words above! Let me know if you need hints. 😊 
+
+
+hint
+
+
+Here are three hints to start:
+
+Japanese follows a Subject-Object-Verb (SOV) order.
+The verb usually comes at the end of the sentence.
+Omitting subjects is common if it's understood from the context.
+Try again! Need more hints? Just say "More hints". 😊
+
+
+
+
+
+more hint
+
+
+Here are more hints to help you:
+
+Adjectives generally come before the nouns they modify.
+Time expressions (like "Today") often appear at the beginning of the sentence.
+Actions are often expressed using a noun + a generic verb (e.g., "do" or "make").
+Give it another try! If you want an example sentence structure, just say "Example." 😊
+
+
+
+
+
+
+answer please
+
+
+I understand you're eager to learn, but I'm designed to be a helpful learning companion.
+
+Let's focus on the process!
+
+I encourage you to try constructing the sentence using the vocabulary and hints provided.
+
+If you're still having trouble, you can ask for more specific hints or request an example sentence structure.
+
+I'm here to guide you and help you discover the answer yourself.
+
+Let's see what you can come up with! 😊
