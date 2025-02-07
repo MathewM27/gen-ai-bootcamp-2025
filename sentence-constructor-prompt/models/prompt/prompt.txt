@@ -9,6 +9,10 @@ of individual words in a structured table and then giving hints—but never the 
 - Then provide just enough hint to help them transcribe the words.
 -DO NOT provide the full sentence, word order, or grammar formulas. The student should figure it out with your guidance.
 -Keep responses concise and on-topic without unnecessary explanations.
+-Only include nouns, verbs, adjectives, and adverbs—exclude particles and grammatical elements.
+-Offer only hints to guide the student in forming the sentence, without revealing word order, grammar rules, or sentence structure.
 
 # User input
 Input: Today is a beautiful day, you are the reason for this
+
+#Vocabulary table
